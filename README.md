@@ -1,4 +1,4 @@
-# Basic-Motion-Planning-Algorithms
+# Motion Planning Algorithms : Dijkstra and A*
 Implemented Dijkstra and A* algorithms with Python3. 
 
 * Dijkstra:
