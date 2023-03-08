@@ -7,12 +7,17 @@ The Dijkstra algorithm is essentially a BFS algorithm but with weights. The algo
 the attribute “cost to travel to other node” as the base line to get path. It choses the least
 weighted path to reach the goal
 
+![image](https://user-images.githubusercontent.com/64325043/223864426-71ba8e5f-f51e-4b05-82d1-f81136b7ef21.png)
+
 * A* :
 
 A* is a similar algorithm to the Dijkstra, except for calculating the cost it takes in to
 consideration the cost to come and also the heuristic too. The heuristic taken in the algorithm
 is the Manhattan distance. The nodes are sorted by f(x):
 f(x) = g(x)+ h(x)
+
+![image](https://user-images.githubusercontent.com/64325043/223864557-d4d7baa2-3b0f-4c85-8258-fc85bfb33303.png)
+
 
 
 Files included:
